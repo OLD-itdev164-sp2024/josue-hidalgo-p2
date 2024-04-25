@@ -12,7 +12,7 @@ require('dotenv').config({
  */
 module.exports = {
   siteMetadata: {
-    title: `Taylor Swift Last Two Albums Blog`,
+    title: `Taylor Swift Last Album Hits`,
     description: ``,
     author: `Josh Hidalgo`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
